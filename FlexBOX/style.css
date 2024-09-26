@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 50px;
+    text-align: center;
+}
+
+.star {
+    color: rgb(0, 0, 0);
+}
+
+.pai {
+    background-color: #164e63;
+    display: flex;
+    align-items: center;
+}
+
+.filho {
+    width: 150px;
+    height: 150px;
+    background-color: #f97316;
+    margin: 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.end-pai {
+    background-color: #164e63;
+    display: flex;
+    justify-content: end;
+}
+
+.end-filho {
+    width: 150px;
+    height: 150px;
+    background-color: #f97316;
+    margin: 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-pai {
+    background-color: #164e63;
+    display: flex;
+    justify-content: center;
+}
+
+.center-filho {
+    width: 150px;
+    height: 150px;
+    background-color: #f97316;
+    margin: 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.space-between-pai {
+    background-color: #164e63;
+    display: flex;
+    justify-content: space-between;
+}
+
+.space-between-filho {
+    width: 150px;
+    height: 150px;
+    background-color: #f97316;
+    margin: 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.space-around-pai {
+    background-color: #164e63;
+    display: flex;
+    justify-content: space-around;
+}
+
+.space-around-filho {
+    width: 150px;
+    height: 150px;
+    background-color: #f97316;
+    margin: 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.space-evenly-pai {
+    background-color: #164e63;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.space-evenly-filho {
+    width: 150px;
+    height: 150px;
+    background-color: #f97316;
+    margin: 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
